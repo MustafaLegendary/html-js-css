@@ -1,0 +1,25 @@
+body {
+  min-height: 600px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.btn-renk {
+  font-size: 25px;
+  margin-top: 15px;
+  padding: 20px 30px;
+  cursor: pointer;
+  color: black;
+  background-color: burlywood;
+  border-radius: 10px;
+}
+
+.btn-renk:hover {
+  background-color: chocolate;
+}
+.yazilar {
+  background-color: white;
+  border-radius: 10px;
+  padding: 5px 10px;
+}

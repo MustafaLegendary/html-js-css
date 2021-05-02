@@ -1,0 +1,31 @@
+
+*{
+        margin: 0px;
+        padding: 0px;
+}
+.button{
+        width: 100px;
+        height: 100px;
+        font-size: 25px;
+        margin: 2px;
+        cursor: pointer;
+        background: black;
+        color: white;
+        border: none;
+}
+
+.text{
+        width: 403px;
+        margin: 5px;
+        text-align: center;
+        font-size: 25px;
+        padding: 5px;
+        color: black;
+        border-color: black;
+}
+.main{
+        position: absolute;
+        top: 50%;
+        left: 50%;
+        transform: translateX(-50%)translateY(-50%);
+}

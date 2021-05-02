@@ -1,0 +1,21 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.baslık {
+    color: white;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+body {
+    background-color: #2f3640;
+}
+button {
+    border: #2f3640;
+    background-color: #2f3640;
+    color: white;
+    font-size: 45px;
+}
+p {
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+}

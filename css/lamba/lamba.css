@@ -1,0 +1,44 @@
+* {
+    text-align: center;
+}
+h1 {
+    color: white;
+}
+.input-list {
+    width: 150px;
+    height: 45px;
+}
+body {
+    background-color: #2d3436;
+}
+.resim {
+    display: block;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10px;
+}
+.btn {
+    font-size: 25px;
+    border-radius: 10px;
+}
+.btn {
+    width: 120px;
+}
+.text {
+    display: block;
+    margin: 10px;
+    width: 150px;
+    height: 45px;
+    margin-left: auto;
+    margin-right: auto;
+}
+.text-list {
+    width: 150px;
+    height: 45px;
+}
+.list {
+    color: white;
+}
+.div-list {
+    color: white;
+}
